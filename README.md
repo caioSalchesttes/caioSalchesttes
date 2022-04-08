@@ -59,5 +59,3 @@
 [![Linkedin: Caio Salchesttes](https://img.shields.io/badge/-CaioSalchesttes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/caio-salchesttes-616538148)](https://br.linkedin.com/in/caio-salchesttes-616538148)
 [![Gmail Badge](https://img.shields.io/badge/-caiosalchesttes@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiosalchesttes@hotmail.com)](mailto:caiosalchesttes@hotmail.com)
 [![caioSalchesttes]( https://img.shields.io/github/followers/caioSalchesttes?label=follow&style=social)](https://github.com/caioSalchesttes)
-
-  ![Snake animation](https://github.com/caioSalchesttes/caioSalchesttes/blob/output/github-contribution-grid-snake.svg)
