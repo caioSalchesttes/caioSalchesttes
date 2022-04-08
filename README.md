@@ -21,6 +21,7 @@
   ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel)
   ![Php](https://img.shields.io/badge/php-333333?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python)
+  ![Portugol](https://img.shields.io/badge/portugol-333333?style=flat&logo=portugol)
 
 **Utilidades**
 
