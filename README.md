@@ -48,7 +48,7 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
+<a href="https://github.com/caioSalchesttes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
 </a>
 
@@ -58,4 +58,4 @@
 
 [![Linkedin: Caio Salchesttes](https://img.shields.io/badge/-CaioSalchesttes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/caio-salchesttes-616538148)](https://br.linkedin.com/in/caio-salchesttes-616538148)
 [![Gmail Badge](https://img.shields.io/badge/-caiosalchesttes@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiosalchesttes@hotmail.com)](mailto:caiosalchesttes@hotmail.com)
-[![caioSalchesttes]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/caioSalchesttes)
+[![caioSalchesttes]( https://img.shields.io/github/followers/caioSalchesttes?label=follow&style=social)](https://github.com/caioSalchesttes)
