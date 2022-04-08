@@ -22,6 +22,7 @@
   ![Php](https://img.shields.io/badge/php-333333?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python)
   ![Portugol](https://img.shields.io/badge/portugol-333333?style=flat&logo=portugol)
+  ![Vue](https://img.shields.io/badge/vue-333333?style=flat&logo=vue)
 
 **Utilidades**
 
