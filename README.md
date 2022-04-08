@@ -4,8 +4,8 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🎓 &nbsp; Estudando **ENGENHARIA DA COMPUTAÇÃO** na <a href="https://www.fiap.com.br/">FIAP</a>.
+- 💼 &nbsp; Trabalhando como **PROGRAMADOR** na <a href="https://br.quality1.app/">QUALITY1.APP</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
