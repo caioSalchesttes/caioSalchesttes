@@ -5,7 +5,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ENGENHARIA DA COMPUTAÇÃO** na <a href="https://www.fiap.com.br/">FIAP</a>.
-- 💼 &nbsp; Trabalhando como **PROGRAMADOR** na [<a href="https://br.quality1.app/">NVPC</a>](http://www.nvpc.company/)
 - 🌱 &nbsp; Aprendendo mais sobre **tecnologias de back-end.**
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
